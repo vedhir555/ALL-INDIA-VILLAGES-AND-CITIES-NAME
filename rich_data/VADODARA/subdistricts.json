@@ -1,0 +1,42 @@
+[
+ {
+  "name": "DESAR",
+  "lgd_code": 6035,
+  "folder": "DESAR"
+ },
+ {
+  "name": "Dabhoi",
+  "lgd_code": 3905,
+  "folder": "DABHOI"
+ },
+ {
+  "name": "Karjan",
+  "lgd_code": 3907,
+  "folder": "KARJAN"
+ },
+ {
+  "name": "Padra",
+  "lgd_code": 3906,
+  "folder": "PADRA"
+ },
+ {
+  "name": "Savli",
+  "lgd_code": 3897,
+  "folder": "SAVLI"
+ },
+ {
+  "name": "Sinor",
+  "lgd_code": 3908,
+  "folder": "SINOR"
+ },
+ {
+  "name": "Vadodara Rural",
+  "lgd_code": 3898,
+  "folder": "VADODARA_RURAL"
+ },
+ {
+  "name": "Vaghodia",
+  "lgd_code": 3899,
+  "folder": "VAGHODIA"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Bhesan",
+  "lgd_code": 3828,
+  "folder": "BHESAN"
+ },
+ {
+  "name": "Junagadh",
+  "lgd_code": 3827,
+  "folder": "JUNAGADH"
+ },
+ {
+  "name": "Junagadh City",
+  "lgd_code": 6517,
+  "folder": "JUNAGADH_CITY"
+ },
+ {
+  "name": "Keshod",
+  "lgd_code": 3831,
+  "folder": "KESHOD"
+ },
+ {
+  "name": "Malia Hatina",
+  "lgd_code": 3833,
+  "folder": "MALIA_HATINA"
+ },
+ {
+  "name": "Manavadar",
+  "lgd_code": 3825,
+  "folder": "MANAVADAR"
+ },
+ {
+  "name": "Mangrol",
+  "lgd_code": 3832,
+  "folder": "MANGROL"
+ },
+ {
+  "name": "Mendarda",
+  "lgd_code": 3830,
+  "folder": "MENDARDA"
+ },
+ {
+  "name": "Vanthali",
+  "lgd_code": 3826,
+  "folder": "VANTHALI"
+ },
+ {
+  "name": "Visavadar",
+  "lgd_code": 3829,
+  "folder": "VISAVADAR"
+ }
+]

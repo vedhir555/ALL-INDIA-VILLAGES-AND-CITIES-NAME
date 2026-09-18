@@ -1,0 +1,57 @@
+[
+ {
+  "name": "Amreli",
+  "lgd_code": 3843,
+  "folder": "AMRELI"
+ },
+ {
+  "name": "Babra",
+  "lgd_code": 3840,
+  "folder": "BABRA"
+ },
+ {
+  "name": "Bagasara",
+  "lgd_code": 3844,
+  "folder": "BAGASARA"
+ },
+ {
+  "name": "Dhari",
+  "lgd_code": 3845,
+  "folder": "DHARI"
+ },
+ {
+  "name": "Jafrabad",
+  "lgd_code": 3848,
+  "folder": "JAFRABAD"
+ },
+ {
+  "name": "Khambha",
+  "lgd_code": 3847,
+  "folder": "KHAMBHA"
+ },
+ {
+  "name": "Kunkavav Vadia",
+  "lgd_code": 3839,
+  "folder": "KUNKAVAV_VADIA"
+ },
+ {
+  "name": "Lathi",
+  "lgd_code": 3841,
+  "folder": "LATHI"
+ },
+ {
+  "name": "Lilia",
+  "lgd_code": 3842,
+  "folder": "LILIA"
+ },
+ {
+  "name": "Rajula",
+  "lgd_code": 3849,
+  "folder": "RAJULA"
+ },
+ {
+  "name": "Savar Kundla",
+  "lgd_code": 3846,
+  "folder": "SAVAR_KUNDLA"
+ }
+]

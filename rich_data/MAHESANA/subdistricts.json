@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Becharaji",
+  "lgd_code": 3758,
+  "folder": "BECHARAJI"
+ },
+ {
+  "name": "Jotana",
+  "lgd_code": 6021,
+  "folder": "JOTANA"
+ },
+ {
+  "name": "Kadi",
+  "lgd_code": 3759,
+  "folder": "KADI"
+ },
+ {
+  "name": "Kheralu",
+  "lgd_code": 3752,
+  "folder": "KHERALU"
+ },
+ {
+  "name": "Mahesana",
+  "lgd_code": 3757,
+  "folder": "MAHESANA"
+ },
+ {
+  "name": "Satlasana",
+  "lgd_code": 3751,
+  "folder": "SATLASANA"
+ },
+ {
+  "name": "Unjha",
+  "lgd_code": 3753,
+  "folder": "UNJHA"
+ },
+ {
+  "name": "Vadnagar",
+  "lgd_code": 3755,
+  "folder": "VADNAGAR"
+ },
+ {
+  "name": "Vijapur",
+  "lgd_code": 3756,
+  "folder": "VIJAPUR"
+ },
+ {
+  "name": "Visnagar",
+  "lgd_code": 3754,
+  "folder": "VISNAGAR"
+ }
+]

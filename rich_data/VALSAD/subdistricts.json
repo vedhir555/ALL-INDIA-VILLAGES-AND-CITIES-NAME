@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Dharampur",
+  "lgd_code": 3928,
+  "folder": "DHARAMPUR"
+ },
+ {
+  "name": "Kaprada",
+  "lgd_code": 3930,
+  "folder": "KAPRADA"
+ },
+ {
+  "name": "Pardi",
+  "lgd_code": 3929,
+  "folder": "PARDI"
+ },
+ {
+  "name": "Umbergaon",
+  "lgd_code": 3931,
+  "folder": "UMBERGAON"
+ },
+ {
+  "name": "VAPI",
+  "lgd_code": 6031,
+  "folder": "VAPI"
+ },
+ {
+  "name": "Valsad",
+  "lgd_code": 3927,
+  "folder": "VALSAD"
+ }
+]

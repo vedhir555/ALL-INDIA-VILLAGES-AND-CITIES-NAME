@@ -1,0 +1,42 @@
+[
+ {
+  "name": "Himatnagar",
+  "lgd_code": 3766,
+  "folder": "HIMATNAGAR"
+ },
+ {
+  "name": "Idar",
+  "lgd_code": 3763,
+  "folder": "IDAR"
+ },
+ {
+  "name": "Khedbrahma",
+  "lgd_code": 3760,
+  "folder": "KHEDBRAHMA"
+ },
+ {
+  "name": "POSHINA",
+  "lgd_code": 6088,
+  "folder": "POSHINA"
+ },
+ {
+  "name": "Prantij",
+  "lgd_code": 3767,
+  "folder": "PRANTIJ"
+ },
+ {
+  "name": "Talod",
+  "lgd_code": 3768,
+  "folder": "TALOD"
+ },
+ {
+  "name": "Vadali",
+  "lgd_code": 3762,
+  "folder": "VADALI"
+ },
+ {
+  "name": "Vijaynagar",
+  "lgd_code": 3761,
+  "folder": "VIJAYNAGAR"
+ }
+]

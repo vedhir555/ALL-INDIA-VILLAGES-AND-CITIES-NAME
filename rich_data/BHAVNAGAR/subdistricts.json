@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Bhavnagar",
+  "lgd_code": 3854,
+  "folder": "BHAVNAGAR"
+ },
+ {
+  "name": "Gariadhar",
+  "lgd_code": 3857,
+  "folder": "GARIADHAR"
+ },
+ {
+  "name": "Ghogha",
+  "lgd_code": 3855,
+  "folder": "GHOGHA"
+ },
+ {
+  "name": "Jesar",
+  "lgd_code": 6203,
+  "folder": "JESAR"
+ },
+ {
+  "name": "Mahuva",
+  "lgd_code": 3860,
+  "folder": "MAHUVA"
+ },
+ {
+  "name": "Palitana",
+  "lgd_code": 3858,
+  "folder": "PALITANA"
+ },
+ {
+  "name": "Sihor",
+  "lgd_code": 3856,
+  "folder": "SIHOR"
+ },
+ {
+  "name": "Talaja",
+  "lgd_code": 3859,
+  "folder": "TALAJA"
+ },
+ {
+  "name": "Umrala",
+  "lgd_code": 3853,
+  "folder": "UMRALA"
+ },
+ {
+  "name": "Vallabhipur",
+  "lgd_code": 3851,
+  "folder": "VALLABHIPUR"
+ }
+]

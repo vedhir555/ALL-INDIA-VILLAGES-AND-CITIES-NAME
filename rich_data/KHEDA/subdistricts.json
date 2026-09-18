@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Galteshwar",
+  "lgd_code": 6025,
+  "folder": "GALTESHWAR"
+ },
+ {
+  "name": "Kapadvanj",
+  "lgd_code": 3869,
+  "folder": "KAPADVANJ"
+ },
+ {
+  "name": "Kathlal",
+  "lgd_code": 3872,
+  "folder": "KATHLAL"
+ },
+ {
+  "name": "Kheda",
+  "lgd_code": 3874,
+  "folder": "KHEDA"
+ },
+ {
+  "name": "Mahudha",
+  "lgd_code": 3877,
+  "folder": "MAHUDHA"
+ },
+ {
+  "name": "Matar",
+  "lgd_code": 3875,
+  "folder": "MATAR"
+ },
+ {
+  "name": "Mehmedabad",
+  "lgd_code": 3873,
+  "folder": "MEHMEDABAD"
+ },
+ {
+  "name": "Nadiad",
+  "lgd_code": 3876,
+  "folder": "NADIAD"
+ },
+ {
+  "name": "Thasra",
+  "lgd_code": 3878,
+  "folder": "THASRA"
+ },
+ {
+  "name": "Vaso",
+  "lgd_code": 6034,
+  "folder": "VASO"
+ }
+]

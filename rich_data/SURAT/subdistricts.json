@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Bardoli",
+  "lgd_code": 3940,
+  "folder": "BARDOLI"
+ },
+ {
+  "name": "Chorasi",
+  "lgd_code": 3938,
+  "folder": "CHORASI"
+ },
+ {
+  "name": "Kamrej",
+  "lgd_code": 3936,
+  "folder": "KAMREJ"
+ },
+ {
+  "name": "Mahuva",
+  "lgd_code": 3941,
+  "folder": "MAHUVA"
+ },
+ {
+  "name": "Majura",
+  "lgd_code": 3937,
+  "folder": "MAJURA"
+ },
+ {
+  "name": "Mandvi surat",
+  "lgd_code": 3935,
+  "folder": "MANDVI_SURAT"
+ },
+ {
+  "name": "Mangrol",
+  "lgd_code": 3933,
+  "folder": "MANGROL"
+ },
+ {
+  "name": "Olpad",
+  "lgd_code": 3932,
+  "folder": "OLPAD"
+ },
+ {
+  "name": "Palsana",
+  "lgd_code": 3939,
+  "folder": "PALSANA"
+ },
+ {
+  "name": "Umarpada",
+  "lgd_code": 3934,
+  "folder": "UMARPADA"
+ }
+]

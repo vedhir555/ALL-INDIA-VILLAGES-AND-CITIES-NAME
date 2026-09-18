@@ -1,0 +1,22 @@
+[
+ {
+  "name": "Dehgam",
+  "lgd_code": 3776,
+  "folder": "DEHGAM"
+ },
+ {
+  "name": "Gandhinagar",
+  "lgd_code": 3775,
+  "folder": "GANDHINAGAR"
+ },
+ {
+  "name": "Kalol Gandhinagar",
+  "lgd_code": 3773,
+  "folder": "KALOL_GANDHINAGAR"
+ },
+ {
+  "name": "Mansa",
+  "lgd_code": 3774,
+  "folder": "MANSA"
+ }
+]

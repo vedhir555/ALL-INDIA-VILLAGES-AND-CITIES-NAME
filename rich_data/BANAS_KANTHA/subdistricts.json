@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Amirgadh",
+  "lgd_code": 3736,
+  "folder": "AMIRGADH"
+ },
+ {
+  "name": "Bhabhar",
+  "lgd_code": 3742,
+  "folder": "BHABHAR"
+ },
+ {
+  "name": "Danta",
+  "lgd_code": 3737,
+  "folder": "DANTA"
+ },
+ {
+  "name": "Dantiwada",
+  "lgd_code": 3735,
+  "folder": "DANTIWADA"
+ },
+ {
+  "name": "Deesa",
+  "lgd_code": 3740,
+  "folder": "DEESA"
+ },
+ {
+  "name": "Deodar",
+  "lgd_code": 3741,
+  "folder": "DEODAR"
+ },
+ {
+  "name": "Dhanera",
+  "lgd_code": 3734,
+  "folder": "DHANERA"
+ },
+ {
+  "name": "Kankrej",
+  "lgd_code": 3743,
+  "folder": "KANKREJ"
+ },
+ {
+  "name": "Lakhani",
+  "lgd_code": 6168,
+  "folder": "LAKHANI"
+ },
+ {
+  "name": "Palanpur",
+  "lgd_code": 3739,
+  "folder": "PALANPUR"
+ },
+ {
+  "name": "SUIGAM",
+  "lgd_code": 6166,
+  "folder": "SUIGAM"
+ },
+ {
+  "name": "Tharad",
+  "lgd_code": 3733,
+  "folder": "THARAD"
+ },
+ {
+  "name": "Vadgam",
+  "lgd_code": 3738,
+  "folder": "VADGAM"
+ },
+ {
+  "name": "Vav",
+  "lgd_code": 3732,
+  "folder": "VAV"
+ }
+]

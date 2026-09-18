@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Bavla",
+  "lgd_code": 3784,
+  "folder": "BAVLA"
+ },
+ {
+  "name": "Daskroi",
+  "lgd_code": 3782,
+  "folder": "DASKROI"
+ },
+ {
+  "name": "Detroj-Rampura",
+  "lgd_code": 3778,
+  "folder": "DETROJ_RAMPURA"
+ },
+ {
+  "name": "Dhandhuka",
+  "lgd_code": 3787,
+  "folder": "DHANDHUKA"
+ },
+ {
+  "name": "Dholera",
+  "lgd_code": 6167,
+  "folder": "DHOLERA"
+ },
+ {
+  "name": "Dholka",
+  "lgd_code": 3783,
+  "folder": "DHOLKA"
+ },
+ {
+  "name": "Mandal",
+  "lgd_code": 3777,
+  "folder": "MANDAL"
+ },
+ {
+  "name": "Sabarmati",
+  "lgd_code": 3781,
+  "folder": "SABARMATI"
+ },
+ {
+  "name": "Sanand",
+  "lgd_code": 3780,
+  "folder": "SANAND"
+ },
+ {
+  "name": "Viramgam",
+  "lgd_code": 3779,
+  "folder": "VIRAMGAM"
+ }
+]

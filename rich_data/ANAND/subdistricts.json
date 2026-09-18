@@ -1,0 +1,42 @@
+[
+ {
+  "name": "Anand Rural",
+  "lgd_code": 3864,
+  "folder": "ANAND_RURAL"
+ },
+ {
+  "name": "Anklav",
+  "lgd_code": 3868,
+  "folder": "ANKLAV"
+ },
+ {
+  "name": "Borsad",
+  "lgd_code": 3867,
+  "folder": "BORSAD"
+ },
+ {
+  "name": "Khambhat",
+  "lgd_code": 3866,
+  "folder": "KHAMBHAT"
+ },
+ {
+  "name": "Petlad",
+  "lgd_code": 3865,
+  "folder": "PETLAD"
+ },
+ {
+  "name": "Sojitra",
+  "lgd_code": 3862,
+  "folder": "SOJITRA"
+ },
+ {
+  "name": "Tarapur",
+  "lgd_code": 3861,
+  "folder": "TARAPUR"
+ },
+ {
+  "name": "Umreth",
+  "lgd_code": 3863,
+  "folder": "UMRETH"
+ }
+]

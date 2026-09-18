@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Balasinor",
+  "lgd_code": 3871,
+  "folder": "BALASINOR"
+ },
+ {
+  "name": "Kadana",
+  "lgd_code": 3880,
+  "folder": "KADANA"
+ },
+ {
+  "name": "Khanpur",
+  "lgd_code": 3879,
+  "folder": "KHANPUR"
+ },
+ {
+  "name": "Lunawada",
+  "lgd_code": 3882,
+  "folder": "LUNAWADA"
+ },
+ {
+  "name": "Santrampur",
+  "lgd_code": 3881,
+  "folder": "SANTRAMPUR"
+ },
+ {
+  "name": "Virpur",
+  "lgd_code": 3870,
+  "folder": "VIRPUR"
+ }
+]
