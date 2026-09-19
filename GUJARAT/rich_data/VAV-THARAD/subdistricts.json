@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Bhabhar",
+  "lgd_code": 3742,
+  "folder": "BHABHAR"
+ },
+ {
+  "name": "Deodar",
+  "lgd_code": 3741,
+  "folder": "DEODAR"
+ },
+ {
+  "name": "Lakhani",
+  "lgd_code": 6168,
+  "folder": "LAKHANI"
+ },
+ {
+  "name": "SUIGAM",
+  "lgd_code": 6166,
+  "folder": "SUIGAM"
+ },
+ {
+  "name": "Tharad",
+  "lgd_code": 3733,
+  "folder": "THARAD"
+ },
+ {
+  "name": "Vav",
+  "lgd_code": 3732,
+  "folder": "VAV"
+ }
+]
