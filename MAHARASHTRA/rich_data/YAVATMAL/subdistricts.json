@@ -1,0 +1,82 @@
+[
+ {
+  "name": "Arni",
+  "lgd_code": 4088,
+  "folder": "ARNI"
+ },
+ {
+  "name": "Babulgaon",
+  "lgd_code": 4080,
+  "folder": "BABULGAON"
+ },
+ {
+  "name": "Darwha",
+  "lgd_code": 4083,
+  "folder": "DARWHA"
+ },
+ {
+  "name": "Digras",
+  "lgd_code": 4084,
+  "folder": "DIGRAS"
+ },
+ {
+  "name": "Ghatanji",
+  "lgd_code": 4089,
+  "folder": "GHATANJI"
+ },
+ {
+  "name": "Kalamb",
+  "lgd_code": 4081,
+  "folder": "KALAMB"
+ },
+ {
+  "name": "Kelapur",
+  "lgd_code": 4090,
+  "folder": "KELAPUR"
+ },
+ {
+  "name": "Mahagaon",
+  "lgd_code": 4087,
+  "folder": "MAHAGAON"
+ },
+ {
+  "name": "Maregaon",
+  "lgd_code": 4092,
+  "folder": "MAREGAON"
+ },
+ {
+  "name": "Ner",
+  "lgd_code": 4079,
+  "folder": "NER"
+ },
+ {
+  "name": "Pusad",
+  "lgd_code": 4085,
+  "folder": "PUSAD"
+ },
+ {
+  "name": "Ralegaon",
+  "lgd_code": 4091,
+  "folder": "RALEGAON"
+ },
+ {
+  "name": "Umarkhed",
+  "lgd_code": 4086,
+  "folder": "UMARKHED"
+ },
+ {
+  "name": "Wani",
+  "lgd_code": 4094,
+  "folder": "WANI"
+ },
+ {
+  "name": "Yavatmal",
+  "lgd_code": 4082,
+  "folder": "YAVATMAL"
+ },
+ {
+  "name": "Zari-Jamani",
+  "lgd_code": 4093,
+  "folder": "ZARI_JAMANI"
+ }
+]

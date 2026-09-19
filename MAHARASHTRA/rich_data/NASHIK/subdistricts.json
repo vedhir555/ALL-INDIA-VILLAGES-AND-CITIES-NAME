@@ -1,0 +1,77 @@
+[
+ {
+  "name": "Baglan",
+  "lgd_code": 4145,
+  "folder": "BAGLAN"
+ },
+ {
+  "name": "Chandvad",
+  "lgd_code": 4148,
+  "folder": "CHANDVAD"
+ },
+ {
+  "name": "Deola",
+  "lgd_code": 4144,
+  "folder": "DEOLA"
+ },
+ {
+  "name": "Dindori",
+  "lgd_code": 4149,
+  "folder": "DINDORI"
+ },
+ {
+  "name": "Igatpuri",
+  "lgd_code": 4153,
+  "folder": "IGATPURI"
+ },
+ {
+  "name": "Kalwan",
+  "lgd_code": 4143,
+  "folder": "KALWAN"
+ },
+ {
+  "name": "Malegaon",
+  "lgd_code": 4146,
+  "folder": "MALEGAON"
+ },
+ {
+  "name": "Nandgaon",
+  "lgd_code": 4147,
+  "folder": "NANDGAON"
+ },
+ {
+  "name": "Nashik",
+  "lgd_code": 4152,
+  "folder": "NASHIK"
+ },
+ {
+  "name": "Niphad",
+  "lgd_code": 4155,
+  "folder": "NIPHAD"
+ },
+ {
+  "name": "Peth",
+  "lgd_code": 4150,
+  "folder": "PETH"
+ },
+ {
+  "name": "Sinnar",
+  "lgd_code": 4154,
+  "folder": "SINNAR"
+ },
+ {
+  "name": "Surgana",
+  "lgd_code": 4142,
+  "folder": "SURGANA"
+ },
+ {
+  "name": "Trimbakeshwar",
+  "lgd_code": 4151,
+  "folder": "TRIMBAKESHWAR"
+ },
+ {
+  "name": "Yevla",
+  "lgd_code": 4156,
+  "folder": "YEVLA"
+ }
+]

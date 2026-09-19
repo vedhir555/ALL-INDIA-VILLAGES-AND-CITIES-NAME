@@ -1,0 +1,57 @@
+[
+ {
+  "name": "Jaoli",
+  "lgd_code": 4263,
+  "folder": "JAOLI"
+ },
+ {
+  "name": "Karad",
+  "lgd_code": 4265,
+  "folder": "KARAD"
+ },
+ {
+  "name": "Khandala",
+  "lgd_code": 4257,
+  "folder": "KHANDALA"
+ },
+ {
+  "name": "Khatav",
+  "lgd_code": 4260,
+  "folder": "KHATAV"
+ },
+ {
+  "name": "Koregaon",
+  "lgd_code": 4261,
+  "folder": "KOREGAON"
+ },
+ {
+  "name": "Mahabaleshwar",
+  "lgd_code": 4255,
+  "folder": "MAHABALESHWAR"
+ },
+ {
+  "name": "Man",
+  "lgd_code": 4259,
+  "folder": "MAN"
+ },
+ {
+  "name": "Patan",
+  "lgd_code": 4264,
+  "folder": "PATAN"
+ },
+ {
+  "name": "Phaltan",
+  "lgd_code": 4258,
+  "folder": "PHALTAN"
+ },
+ {
+  "name": "Satara",
+  "lgd_code": 4262,
+  "folder": "SATARA"
+ },
+ {
+  "name": "Wai",
+  "lgd_code": 4256,
+  "folder": "WAI"
+ }
+]

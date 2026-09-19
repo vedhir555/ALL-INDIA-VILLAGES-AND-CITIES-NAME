@@ -1,0 +1,47 @@
+[
+ {
+  "name": "Chiplun",
+  "lgd_code": 4269,
+  "folder": "CHIPLUN"
+ },
+ {
+  "name": "Dapoli",
+  "lgd_code": 4267,
+  "folder": "DAPOLI"
+ },
+ {
+  "name": "Guhagar",
+  "lgd_code": 4270,
+  "folder": "GUHAGAR"
+ },
+ {
+  "name": "Khed",
+  "lgd_code": 4268,
+  "folder": "KHED"
+ },
+ {
+  "name": "Lanja",
+  "lgd_code": 4273,
+  "folder": "LANJA"
+ },
+ {
+  "name": "Mandangad",
+  "lgd_code": 4266,
+  "folder": "MANDANGAD"
+ },
+ {
+  "name": "Rajapur",
+  "lgd_code": 4274,
+  "folder": "RAJAPUR"
+ },
+ {
+  "name": "Ratnagiri",
+  "lgd_code": 4271,
+  "folder": "RATNAGIRI"
+ },
+ {
+  "name": "Sangameshwar",
+  "lgd_code": 4272,
+  "folder": "SANGAMESHWAR"
+ }
+]

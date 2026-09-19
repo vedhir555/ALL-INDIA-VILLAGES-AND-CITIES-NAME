@@ -1,0 +1,47 @@
+[
+ {
+  "name": "Aurangabad",
+  "lgd_code": 4137,
+  "folder": "AURANGABAD"
+ },
+ {
+  "name": "Gangapur",
+  "lgd_code": 4140,
+  "folder": "GANGAPUR"
+ },
+ {
+  "name": "Kannad",
+  "lgd_code": 4133,
+  "folder": "KANNAD"
+ },
+ {
+  "name": "Khuldabad",
+  "lgd_code": 4138,
+  "folder": "KHULDABAD"
+ },
+ {
+  "name": "Paithan",
+  "lgd_code": 4141,
+  "folder": "PAITHAN"
+ },
+ {
+  "name": "Phulambri",
+  "lgd_code": 4136,
+  "folder": "PHULAMBRI"
+ },
+ {
+  "name": "Sillod",
+  "lgd_code": 4135,
+  "folder": "SILLOD"
+ },
+ {
+  "name": "Soegaon",
+  "lgd_code": 4134,
+  "folder": "SOEGAON"
+ },
+ {
+  "name": "Vaijapur",
+  "lgd_code": 4139,
+  "folder": "VAIJAPUR"
+ }
+]

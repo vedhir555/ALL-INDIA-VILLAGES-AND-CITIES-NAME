@@ -1,0 +1,47 @@
+[
+ {
+  "name": "Amgaon",
+  "lgd_code": 4047,
+  "folder": "AMGAON"
+ },
+ {
+  "name": "Arjuni Morgaon",
+  "lgd_code": 4050,
+  "folder": "ARJUNI_MORGAON"
+ },
+ {
+  "name": "Deori",
+  "lgd_code": 4051,
+  "folder": "DEORI"
+ },
+ {
+  "name": "Gondiya",
+  "lgd_code": 4046,
+  "folder": "GONDIYA"
+ },
+ {
+  "name": "Goregaon",
+  "lgd_code": 4045,
+  "folder": "GOREGAON"
+ },
+ {
+  "name": "Sadak-Arjuni",
+  "lgd_code": 4049,
+  "folder": "SADAK_ARJUNI"
+ },
+ {
+  "name": "Sakoli",
+  "lgd_code": 4040,
+  "folder": "SAKOLI"
+ },
+ {
+  "name": "Salekasa",
+  "lgd_code": 4048,
+  "folder": "SALEKASA"
+ },
+ {
+  "name": "Tirora",
+  "lgd_code": 4044,
+  "folder": "TIRORA"
+ }
+]

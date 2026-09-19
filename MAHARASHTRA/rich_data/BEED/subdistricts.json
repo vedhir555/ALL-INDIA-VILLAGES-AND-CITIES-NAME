@@ -1,0 +1,57 @@
+[
+ {
+  "name": "Ambejogai",
+  "lgd_code": 4225,
+  "folder": "AMBEJOGAI"
+ },
+ {
+  "name": "Ashti",
+  "lgd_code": 4215,
+  "folder": "ASHTI"
+ },
+ {
+  "name": "Bid",
+  "lgd_code": 4221,
+  "folder": "BID"
+ },
+ {
+  "name": "Dharur",
+  "lgd_code": 4223,
+  "folder": "DHARUR"
+ },
+ {
+  "name": "Georai",
+  "lgd_code": 4218,
+  "folder": "GEORAI"
+ },
+ {
+  "name": "Kaij",
+  "lgd_code": 4222,
+  "folder": "KAIJ"
+ },
+ {
+  "name": "Manjlegaon",
+  "lgd_code": 4219,
+  "folder": "MANJLEGAON"
+ },
+ {
+  "name": "Parli",
+  "lgd_code": 4224,
+  "folder": "PARLI"
+ },
+ {
+  "name": "Patoda",
+  "lgd_code": 4216,
+  "folder": "PATODA"
+ },
+ {
+  "name": "Shirur (Kasar)",
+  "lgd_code": 4217,
+  "folder": "SHIRUR_KASAR"
+ },
+ {
+  "name": "Wadwani",
+  "lgd_code": 4220,
+  "folder": "WADWANI"
+ }
+]

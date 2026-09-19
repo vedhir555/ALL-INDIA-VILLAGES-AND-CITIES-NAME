@@ -1,0 +1,42 @@
+[
+ {
+  "name": "Bhum",
+  "lgd_code": 4237,
+  "folder": "BHUM"
+ },
+ {
+  "name": "Kalamb",
+  "lgd_code": 4239,
+  "folder": "KALAMB"
+ },
+ {
+  "name": "Lohara",
+  "lgd_code": 4242,
+  "folder": "LOHARA"
+ },
+ {
+  "name": "Osmanabad",
+  "lgd_code": 4240,
+  "folder": "OSMANABAD"
+ },
+ {
+  "name": "Paranda",
+  "lgd_code": 4236,
+  "folder": "PARANDA"
+ },
+ {
+  "name": "Tuljapur",
+  "lgd_code": 4241,
+  "folder": "TULJAPUR"
+ },
+ {
+  "name": "Umarga",
+  "lgd_code": 4243,
+  "folder": "UMARGA"
+ },
+ {
+  "name": "Washi",
+  "lgd_code": 4238,
+  "folder": "WASHI"
+ }
+]

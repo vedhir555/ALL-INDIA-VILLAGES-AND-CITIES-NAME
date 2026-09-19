@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Ahmadpur",
+  "lgd_code": 4228,
+  "folder": "AHMADPUR"
+ },
+ {
+  "name": "Ausa",
+  "lgd_code": 4232,
+  "folder": "AUSA"
+ },
+ {
+  "name": "Chakur",
+  "lgd_code": 4230,
+  "folder": "CHAKUR"
+ },
+ {
+  "name": "Deoni",
+  "lgd_code": 4234,
+  "folder": "DEONI"
+ },
+ {
+  "name": "Jalkot",
+  "lgd_code": 4229,
+  "folder": "JALKOT"
+ },
+ {
+  "name": "Latur",
+  "lgd_code": 4226,
+  "folder": "LATUR"
+ },
+ {
+  "name": "Nilanga",
+  "lgd_code": 4233,
+  "folder": "NILANGA"
+ },
+ {
+  "name": "Renapur",
+  "lgd_code": 4227,
+  "folder": "RENAPUR"
+ },
+ {
+  "name": "Shirur-Anantpal",
+  "lgd_code": 4231,
+  "folder": "SHIRUR_ANANTPAL"
+ },
+ {
+  "name": "Udgir",
+  "lgd_code": 4235,
+  "folder": "UDGIR"
+ }
+]

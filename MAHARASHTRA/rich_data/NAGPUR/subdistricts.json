@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Bhiwapur",
+  "lgd_code": 4036,
+  "folder": "BHIWAPUR"
+ },
+ {
+  "name": "Hingna",
+  "lgd_code": 4033,
+  "folder": "HINGNA"
+ },
+ {
+  "name": "Kalameshwar",
+  "lgd_code": 4025,
+  "folder": "KALAMESHWAR"
+ },
+ {
+  "name": "Kamptee",
+  "lgd_code": 4030,
+  "folder": "KAMPTEE"
+ },
+ {
+  "name": "Katol",
+  "lgd_code": 4024,
+  "folder": "KATOL"
+ },
+ {
+  "name": "Kuhi",
+  "lgd_code": 4035,
+  "folder": "KUHI"
+ },
+ {
+  "name": "Mauda",
+  "lgd_code": 4029,
+  "folder": "MAUDA"
+ },
+ {
+  "name": "Nagpur (Rural)",
+  "lgd_code": 4031,
+  "folder": "NAGPUR_RURAL"
+ },
+ {
+  "name": "Nagpur (Urban)",
+  "lgd_code": 4032,
+  "folder": "NAGPUR_URBAN"
+ },
+ {
+  "name": "Narkhed",
+  "lgd_code": 4023,
+  "folder": "NARKHED"
+ },
+ {
+  "name": "Parseoni",
+  "lgd_code": 4027,
+  "folder": "PARSEONI"
+ },
+ {
+  "name": "Ramtek",
+  "lgd_code": 4028,
+  "folder": "RAMTEK"
+ },
+ {
+  "name": "Savner",
+  "lgd_code": 4026,
+  "folder": "SAVNER"
+ },
+ {
+  "name": "Umred",
+  "lgd_code": 4034,
+  "folder": "UMRED"
+ }
+]

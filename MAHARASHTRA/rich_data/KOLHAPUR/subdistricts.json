@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Ajra",
+  "lgd_code": 4292,
+  "folder": "AJRA"
+ },
+ {
+  "name": "Bavda",
+  "lgd_code": 4288,
+  "folder": "BAVDA"
+ },
+ {
+  "name": "Bhudargad",
+  "lgd_code": 4291,
+  "folder": "BHUDARGAD"
+ },
+ {
+  "name": "Chandgad",
+  "lgd_code": 4294,
+  "folder": "CHANDGAD"
+ },
+ {
+  "name": "Gadhinglaj",
+  "lgd_code": 4293,
+  "folder": "GADHINGLAJ"
+ },
+ {
+  "name": "Hatkanangle",
+  "lgd_code": 4285,
+  "folder": "HATKANANGLE"
+ },
+ {
+  "name": "Kagal",
+  "lgd_code": 4290,
+  "folder": "KAGAL"
+ },
+ {
+  "name": "Karvir",
+  "lgd_code": 4287,
+  "folder": "KARVIR"
+ },
+ {
+  "name": "Panhala",
+  "lgd_code": 4284,
+  "folder": "PANHALA"
+ },
+ {
+  "name": "Radhanagari",
+  "lgd_code": 4289,
+  "folder": "RADHANAGARI"
+ },
+ {
+  "name": "Shahuwadi",
+  "lgd_code": 4283,
+  "folder": "SHAHUWADI"
+ },
+ {
+  "name": "Shirol",
+  "lgd_code": 4286,
+  "folder": "SHIROL"
+ }
+]

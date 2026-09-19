@@ -1,0 +1,42 @@
+[
+ {
+  "name": "Arvi",
+  "lgd_code": 4017,
+  "folder": "ARVI"
+ },
+ {
+  "name": "Ashti",
+  "lgd_code": 4015,
+  "folder": "ASHTI"
+ },
+ {
+  "name": "Deoli",
+  "lgd_code": 4020,
+  "folder": "DEOLI"
+ },
+ {
+  "name": "Hinganghat",
+  "lgd_code": 4021,
+  "folder": "HINGANGHAT"
+ },
+ {
+  "name": "Karanja",
+  "lgd_code": 4016,
+  "folder": "KARANJA"
+ },
+ {
+  "name": "Samudrapur",
+  "lgd_code": 4022,
+  "folder": "SAMUDRAPUR"
+ },
+ {
+  "name": "Seloo",
+  "lgd_code": 4018,
+  "folder": "SELOO"
+ },
+ {
+  "name": "Wardha",
+  "lgd_code": 4019,
+  "folder": "WARDHA"
+ }
+]

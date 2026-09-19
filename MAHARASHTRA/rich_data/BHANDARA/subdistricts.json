@@ -1,0 +1,37 @@
+[
+ {
+  "name": "Bhandara",
+  "lgd_code": 4039,
+  "folder": "BHANDARA"
+ },
+ {
+  "name": "Lakhandur",
+  "lgd_code": 4043,
+  "folder": "LAKHANDUR"
+ },
+ {
+  "name": "Lakhani",
+  "lgd_code": 4041,
+  "folder": "LAKHANI"
+ },
+ {
+  "name": "Mohadi",
+  "lgd_code": 4038,
+  "folder": "MOHADI"
+ },
+ {
+  "name": "Pauni",
+  "lgd_code": 4042,
+  "folder": "PAUNI"
+ },
+ {
+  "name": "Sakoli",
+  "lgd_code": 4040,
+  "folder": "SAKOLI"
+ },
+ {
+  "name": "Tumsar",
+  "lgd_code": 4037,
+  "folder": "TUMSAR"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "name": "Dahanu",
+  "lgd_code": 4158,
+  "folder": "DAHANU"
+ },
+ {
+  "name": "Jawhar",
+  "lgd_code": 4160,
+  "folder": "JAWHAR"
+ },
+ {
+  "name": "Mokhada",
+  "lgd_code": 4161,
+  "folder": "MOKHADA"
+ },
+ {
+  "name": "Palghar",
+  "lgd_code": 4163,
+  "folder": "PALGHAR"
+ },
+ {
+  "name": "Talasari",
+  "lgd_code": 4157,
+  "folder": "TALASARI"
+ },
+ {
+  "name": "Trimbakeshwar",
+  "lgd_code": 4151,
+  "folder": "TRIMBAKESHWAR"
+ },
+ {
+  "name": "Vada",
+  "lgd_code": 4162,
+  "folder": "VADA"
+ },
+ {
+  "name": "Vasai",
+  "lgd_code": 4164,
+  "folder": "VASAI"
+ },
+ {
+  "name": "Vikramgad",
+  "lgd_code": 4159,
+  "folder": "VIKRAMGAD"
+ }
+]

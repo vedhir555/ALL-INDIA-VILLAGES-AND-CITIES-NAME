@@ -1,0 +1,37 @@
+[
+ {
+  "name": "Ambarnath",
+  "lgd_code": 4170,
+  "folder": "AMBARNATH"
+ },
+ {
+  "name": "Bhiwandi",
+  "lgd_code": 4166,
+  "folder": "BHIWANDI"
+ },
+ {
+  "name": "Kalyan",
+  "lgd_code": 4168,
+  "folder": "KALYAN"
+ },
+ {
+  "name": "Murbad",
+  "lgd_code": 4171,
+  "folder": "MURBAD"
+ },
+ {
+  "name": "Shahapur",
+  "lgd_code": 4167,
+  "folder": "SHAHAPUR"
+ },
+ {
+  "name": "Thane",
+  "lgd_code": 4165,
+  "folder": "THANE"
+ },
+ {
+  "name": "Ulhasnagar",
+  "lgd_code": 4169,
+  "folder": "ULHASNAGAR"
+ }
+]

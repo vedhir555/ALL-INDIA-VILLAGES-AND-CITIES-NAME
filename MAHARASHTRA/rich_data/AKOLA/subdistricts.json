@@ -1,0 +1,37 @@
+[
+ {
+  "name": "Akola",
+  "lgd_code": 3991,
+  "folder": "AKOLA"
+ },
+ {
+  "name": "Akot",
+  "lgd_code": 3989,
+  "folder": "AKOT"
+ },
+ {
+  "name": "Balapur",
+  "lgd_code": 3990,
+  "folder": "BALAPUR"
+ },
+ {
+  "name": "Barshitakli",
+  "lgd_code": 3994,
+  "folder": "BARSHITAKLI"
+ },
+ {
+  "name": "Murtijapur",
+  "lgd_code": 3992,
+  "folder": "MURTIJAPUR"
+ },
+ {
+  "name": "Patur",
+  "lgd_code": 3993,
+  "folder": "PATUR"
+ },
+ {
+  "name": "Telhara",
+  "lgd_code": 3988,
+  "folder": "TELHARA"
+ }
+]

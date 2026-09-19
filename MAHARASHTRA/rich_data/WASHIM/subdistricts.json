@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Karanja",
+  "lgd_code": 3997,
+  "folder": "KARANJA"
+ },
+ {
+  "name": "Malegaon",
+  "lgd_code": 3995,
+  "folder": "MALEGAON"
+ },
+ {
+  "name": "Mangrulpir",
+  "lgd_code": 3996,
+  "folder": "MANGRULPIR"
+ },
+ {
+  "name": "Manora",
+  "lgd_code": 3998,
+  "folder": "MANORA"
+ },
+ {
+  "name": "Risod",
+  "lgd_code": 4000,
+  "folder": "RISOD"
+ },
+ {
+  "name": "Washim",
+  "lgd_code": 3999,
+  "folder": "WASHIM"
+ }
+]

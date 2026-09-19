@@ -1,0 +1,57 @@
+[
+ {
+  "name": "Akkalkot",
+  "lgd_code": 4254,
+  "folder": "AKKALKOT"
+ },
+ {
+  "name": "Barshi",
+  "lgd_code": 4246,
+  "folder": "BARSHI"
+ },
+ {
+  "name": "Karmala",
+  "lgd_code": 4244,
+  "folder": "KARMALA"
+ },
+ {
+  "name": "Madha",
+  "lgd_code": 4245,
+  "folder": "MADHA"
+ },
+ {
+  "name": "Malshiras",
+  "lgd_code": 4250,
+  "folder": "MALSHIRAS"
+ },
+ {
+  "name": "Mangalvedhe",
+  "lgd_code": 4252,
+  "folder": "MANGALVEDHE"
+ },
+ {
+  "name": "Mohol",
+  "lgd_code": 4248,
+  "folder": "MOHOL"
+ },
+ {
+  "name": "Pandharpur",
+  "lgd_code": 4249,
+  "folder": "PANDHARPUR"
+ },
+ {
+  "name": "Sangole",
+  "lgd_code": 4251,
+  "folder": "SANGOLE"
+ },
+ {
+  "name": "Solapur North",
+  "lgd_code": 4247,
+  "folder": "SOLAPUR_NORTH"
+ },
+ {
+  "name": "Solapur South",
+  "lgd_code": 4253,
+  "folder": "SOLAPUR_SOUTH"
+ }
+]
