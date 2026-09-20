@@ -703,5 +703,19 @@
                         "PASCHIM BARDHAMAN",
                         "PURBA BARDHAMAN",
                         "PURULIA"
-                    ]
+                    ],
+    "Andaman and Nicobar Islands":  [
+                                        "Nicobar",
+                                        "North and Middle Andaman",
+                                        "South Andaman"
+                                    ],
+    "Lakshadweep":  [
+                        "Lakshadweep"
+                    ],
+    "Puducherry":  [
+                       "Karaikal",
+                       "Mahe",
+                       "Puducherry",
+                       "Yanam"
+                   ]
 }
