@@ -1,1 +1,1 @@
-[{"name":"Cheeni Chowk","type":"locality","lat":33.729225,"lon":75.153378,"has_boundary":false},{"name":"Lal Chowk","type":"suburb","lat":33.731475,"lon":75.149179,"has_boundary":false}]
+[{"name": "Cheeni Chowk", "type": "locality", "lat": 33.729225, "lon": 75.153378, "boundary_wkt": null}, {"name": "Lal Chowk", "type": "suburb", "lat": 33.731475, "lon": 75.149179, "boundary_wkt": null}]

@@ -1,1 +1,1 @@
-[{"name":"Bir Road","type":"neighbourhood","lat":32.024125,"lon":76.709937,"has_boundary":false},{"name":"Chauntra Tibetan Colony","type":"locality","lat":32.011046,"lon":76.74013,"has_boundary":false}]
+[{"name": "Bir Road", "type": "neighbourhood", "lat": 32.024125, "lon": 76.709937, "boundary_wkt": null}, {"name": "Chauntra Tibetan Colony", "type": "locality", "lat": 32.011046, "lon": 76.74013, "boundary_wkt": null}, {"name": "kahajuri", "type": "locality", "lat": 32.010646, "lon": 76.672688, "boundary_wkt": null}]

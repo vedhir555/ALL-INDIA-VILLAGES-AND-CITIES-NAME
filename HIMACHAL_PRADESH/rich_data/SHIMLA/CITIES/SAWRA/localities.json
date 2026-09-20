@@ -1,1 +1,1 @@
-[{"name":"Sawra","type":"town","lat":31.123387,"lon":77.75162,"has_boundary":false}]
+[{"name": "pabri", "type": "locality", "lat": 31.126238, "lon": 77.801426, "boundary_wkt": null}, {"name": "pangula dogri", "type": "locality", "lat": 31.095113, "lon": 77.789233, "boundary_wkt": null}, {"name": "reoshala", "type": "locality", "lat": 31.153636, "lon": 77.794694, "boundary_wkt": null}, {"name": "sara", "type": "locality", "lat": 31.142801, "lon": 77.792398, "boundary_wkt": null}]
