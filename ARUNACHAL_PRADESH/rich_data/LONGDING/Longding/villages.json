@@ -1,1 +1,1 @@
-[{"name": "Kampong", "lgd_code": null, "lat": 26.722205, "lon": 95.410961, "boundary_wkt": null, "source": "osm"}, {"name": "Khanu", "lgd_code": null, "lat": 26.765924, "lon": 95.388173, "boundary_wkt": null, "source": "osm"}]
+[{"name": "Kampong", "lgd_code": null, "lat": 26.722205, "lon": 95.410961, "boundary_wkt": null}, {"name": "Khanu", "lgd_code": null, "lat": 26.765924, "lon": 95.388173, "boundary_wkt": null}]

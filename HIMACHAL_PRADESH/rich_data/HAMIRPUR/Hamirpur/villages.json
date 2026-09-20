@@ -1,1 +1,1 @@
-[{"name": "Barin", "lat": 31.707455, "lon": 76.621324, "source": "osm", "osm_place": "village", "boundary_wkt": null}, {"name": "Tikkar", "lat": 31.630188, "lon": 76.561299, "source": "osm", "osm_place": "village", "boundary_wkt": null}]
+[{"name": "Barin", "lgd_code": null, "lat": 31.707455, "lon": 76.621324, "boundary_wkt": null}, {"name": "Tikkar", "lgd_code": null, "lat": 31.630188, "lon": 76.561299, "boundary_wkt": null}]

@@ -1,1 +1,1 @@
-[{"name": "Deotsidh", "lat": 31.455392, "lon": 76.542982, "source": "osm", "osm_place": "hamlet", "boundary_wkt": null}, {"name": "Dhatwal", "lat": 31.460883, "lon": 76.582689, "source": "osm", "osm_place": "village", "boundary_wkt": null}]
+[{"name": "Deotsidh", "lgd_code": null, "lat": 31.455392, "lon": 76.542982, "boundary_wkt": null}, {"name": "Dhatwal", "lgd_code": null, "lat": 31.460883, "lon": 76.582689, "boundary_wkt": null}]
